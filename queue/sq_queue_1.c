@@ -1,3 +1,8 @@
+/*
+ *
+ *from 《数据结构》
+ *循环队列，顺序存储结构
+ * */
 #include <stdio.h>
 #include <stdlib.h>
 

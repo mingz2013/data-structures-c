@@ -1,3 +1,10 @@
+/*
+ *
+ *from 《数据结构》
+ *
+ *
+ * sq_stack
+ * */
 #include <stdio.h>
 #include <stdlib.h>
 

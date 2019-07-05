@@ -1,3 +1,8 @@
+/*
+ *
+ *from 《数据结构》
+ *链式存储结构，队列
+ * */
 #include <stdio.h>
 #include <stdlib.h>
 
