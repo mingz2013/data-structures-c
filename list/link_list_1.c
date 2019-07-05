@@ -1,3 +1,10 @@
+/*
+ *
+ *
+ *from 《数据结构》
+ *
+ * */
+
 #include <stdio.h>
 #include <stdlib.h>
 

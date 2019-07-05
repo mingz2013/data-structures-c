@@ -1,3 +1,9 @@
+/*
+ *
+ *from 《数据结构》
+ *
+ * */
+
 // 数组的顺序表示和实现
 #include <stdarg.h>				// 标准头文件，提供宏 va_start、va_arg、和va_end、
 								// 用于存取变长参数表
